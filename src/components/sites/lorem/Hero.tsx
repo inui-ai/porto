@@ -77,7 +77,7 @@ export function Hero() {
 
         <aside className="bl-hero__panel bl-panel" aria-label="Studio introduction">
           <div className="bl-hero__panelTop">
-            <span>loremipsum agency</span>
+            <span>loremipsum</span>
             <span>© 20XX</span>
           </div>
 

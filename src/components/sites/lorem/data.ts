@@ -2,8 +2,8 @@
 // All copy is loremipsum; no real or fictional brand/claims.
 
 export const SITE = {
-  brand: "Lorem®",
-  wordmark: "Lorem // Ipsum®",
+  brand: "loremipsum",
+  wordmark: "loremipsum // lorem®",
   email: "hello@example.com",
   phone: "(000) 000-0000",
   timezone: "Europe/London",
