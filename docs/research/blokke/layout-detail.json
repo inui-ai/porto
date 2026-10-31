@@ -1,0 +1,3914 @@
+{
+  "Hero": [
+    {
+      "rect": [
+        52,
+        0,
+        1388,
+        1800
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1800px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "3 spots open for // MayLocal time:05:46 AMBlokke /"
+    }
+  ],
+  "Left": [
+    {
+      "rect": [
+        52,
+        0,
+        972,
+        1800
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "1800px",
+        "bg": "rgb(227, 227, 227)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "3 spots open for // MayLocal time:05:46 AMBlokke /"
+    },
+    {
+      "rect": [
+        52,
+        3094,
+        972,
+        2530
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "80px",
+        "pad": "80px 0px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "2529.78px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "What we do02Services01//Digital DesignUI DesignWeb"
+    },
+    {
+      "rect": [
+        52,
+        9734,
+        972,
+        650
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "180px",
+        "pad": "80px 0px 0px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "650.375px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Why us05Choosing Blokke means choosing a studio th"
+    },
+    {
+      "rect": [
+        52,
+        12615,
+        972,
+        1694
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "80px",
+        "pad": "80px 0px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "1694.45px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Simple, transparent pricing.07Pricing PlansProject"
+    },
+    {
+      "rect": [
+        52,
+        15706,
+        972,
+        1298
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "80px",
+        "pad": "80px 0px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "1297.81px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Blog10The JournalApr 5, 2026Design ThinkingThe Cas"
+    }
+  ],
+  "Right": [
+    {
+      "rect": [
+        1024,
+        0,
+        416,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "sticky",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "900px",
+        "bg": "rgb(36, 36, 36)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "auto",
+        "overflow": "clip"
+      },
+      "text": "Digital Design Agency© 2026Blokke® is a design age"
+    },
+    {
+      "rect": [
+        1024,
+        3294,
+        416,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "sticky",
+        "fd": "column",
+        "jc": "space-between",
+        "ai": "center",
+        "gap": "normal",
+        "pad": "77px 28px 28px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "900px",
+        "bg": "rgb(18, 18, 18)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "auto",
+        "overflow": "clip"
+      },
+      "text": "Blokke®We work across brand, digital, print, and m"
+    },
+    {
+      "rect": [
+        1024,
+        9734,
+        416,
+        650
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-end",
+        "ai": "center",
+        "gap": "60px",
+        "pad": "20px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "650.375px",
+        "bg": "rgb(227, 227, 227)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Blokke Studio®"
+    },
+    {
+      "rect": [
+        1024,
+        12615,
+        416,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "sticky",
+        "fd": "column",
+        "jc": "space-between",
+        "ai": "center",
+        "gap": "normal",
+        "pad": "77px 28px 28px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "auto",
+        "overflow": "visible"
+      },
+      "text": "3 spots open // MayBlokke®Simple, transparent pric"
+    },
+    {
+      "rect": [
+        1024,
+        14820,
+        416,
+        366
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "sticky",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "365.812px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "6px",
+        "left": "auto",
+        "overflow": "clip"
+      },
+      "text": "Blokke®We are always looking for designers who hol"
+    },
+    {
+      "rect": [
+        1024,
+        15906,
+        416,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "sticky",
+        "fd": "column",
+        "jc": "space-between",
+        "ai": "center",
+        "gap": "normal",
+        "pad": "77px 28px 28px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "900px",
+        "bg": "rgba(255, 255, 255, 0.5)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "auto",
+        "overflow": "clip"
+      },
+      "text": "3 spots open for // AprilKanso ©Ideas, observation"
+    }
+  ],
+  "Top": [
+    {
+      "rect": [
+        -413,
+        0,
+        400,
+        77
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "center",
+        "gap": "14px",
+        "pad": "18px",
+        "mar": "0px",
+        "w": "400px",
+        "h": "76.9844px",
+        "bg": "rgb(26, 26, 26)",
+        "color": "rgb(0, 0, 238)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 238)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Blokke // Studio®"
+    },
+    {
+      "rect": [
+        52,
+        0,
+        972,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "16px",
+        "pad": "28px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "3 spots open for // MayLocal time:05:46 AMBlokke /"
+    },
+    {
+      "rect": [
+        1024,
+        0,
+        416,
+        48
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "0px",
+        "pad": "28px 28px 0px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "47.5938px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Digital Design Agency© 2026"
+    },
+    {
+      "rect": [
+        80,
+        2754,
+        268,
+        94
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "12px",
+        "pad": "0px 0px 24px",
+        "mar": "0px",
+        "w": "267.859px",
+        "h": "94px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "150+Years in practice"
+    },
+    {
+      "rect": [
+        404,
+        2754,
+        268,
+        94
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "12px",
+        "pad": "0px 0px 24px",
+        "mar": "0px",
+        "w": "267.875px",
+        "h": "94px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "3400+Projects delivered"
+    },
+    {
+      "rect": [
+        728,
+        2754,
+        268,
+        94
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "12px",
+        "pad": "0px 0px 24px",
+        "mar": "0px",
+        "w": "267.875px",
+        "h": "94px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "1200+Clients served"
+    }
+  ],
+  "Availability": [
+    {
+      "rect": [
+        80,
+        28,
+        916,
+        44
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "8px",
+        "pad": "0px 0px 24px",
+        "mar": "0px",
+        "w": "915.609px",
+        "h": "43.5938px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "3 spots open for // MayLocal time:05:46 AM"
+    }
+  ],
+  "Headline": [
+    {
+      "rect": [
+        80,
+        171,
+        916,
+        138
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-end",
+        "ai": "center",
+        "gap": "16px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "915.609px",
+        "h": "138.406px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Blokke // Studio®© Since 2011Based in UK"
+    },
+    {
+      "rect": [
+        52,
+        1974,
+        1388,
+        672
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "672px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "We work closely with brands to understand who they"
+    },
+    {
+      "rect": [
+        52,
+        5837,
+        1388,
+        257
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "flex-end",
+        "gap": "24px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "256.812px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Every project tells a story.Selected across brand,"
+    },
+    {
+      "rect": [
+        52,
+        10856,
+        1388,
+        384
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "384px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Fifteen years of work. Hundreds of clients. Here i"
+    },
+    {
+      "rect": [
+        52,
+        14483,
+        1388,
+        257
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "flex-end",
+        "gap": "24px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "256.812px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "The people behind the work.We are a team built slo"
+    },
+    {
+      "rect": [
+        52,
+        17124,
+        1388,
+        131
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "flex-end",
+        "gap": "32px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "130.812px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Ready When You AreBring us your brief, your proble"
+    }
+  ],
+  "Details": [
+    {
+      "rect": [
+        80,
+        477,
+        916,
+        164
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "32px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "915.609px",
+        "h": "164px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Design with intention, not decoration.Digital Desi"
+    }
+  ],
+  "Services": [
+    {
+      "rect": [
+        80,
+        477,
+        534,
+        162
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "20px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "533.609px",
+        "h": "161.594px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Design with intention, not decoration.Digital Desi"
+    },
+    {
+      "rect": [
+        80,
+        558,
+        534,
+        80
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "533.609px",
+        "h": "80px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Digital DesignBrand IdentityMotion & VisualPrint &"
+    },
+    {
+      "rect": [
+        52,
+        3094,
+        1388,
+        2530
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "2529.78px",
+        "bg": "rgb(26, 26, 26)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "What we do02Services01//Digital DesignUI DesignWeb"
+    },
+    {
+      "rect": [
+        52,
+        3174,
+        972,
+        1519
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "60px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "1519.41px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "What we do02Services01//Digital DesignUI DesignWeb"
+    },
+    {
+      "rect": [
+        824,
+        3466,
+        139,
+        89
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "8px",
+        "pad": "9px 0px 0px",
+        "mar": "0px",
+        "w": "139.156px",
+        "h": "89px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "UI DesignWeb DesignPrototypingUX & Wireframing"
+    },
+    {
+      "rect": [
+        804,
+        3792,
+        160,
+        89
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "8px",
+        "pad": "9px 0px 0px",
+        "mar": "0px",
+        "w": "160.047px",
+        "h": "89px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Logo & Mark DesignTypography & ColorBrand Guidelin"
+    }
+  ],
+  "CTA": [
+    {
+      "rect": [
+        80,
+        808,
+        916,
+        64
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-start",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "915.609px",
+        "h": "64px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "SSttaarrtt  aa  pprroojjeeccttSSeeee  pprriicciinn"
+    },
+    {
+      "rect": [
+        1024,
+        2726,
+        416,
+        368
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "80px",
+        "pad": "28px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "367.594px",
+        "bg": "rgba(255, 255, 255, 0.5)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Blokke®© 2011 - 26From brand identity to digital e"
+    },
+    {
+      "rect": [
+        1052,
+        3853,
+        360,
+        313
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "16px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "360.391px",
+        "h": "313px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "\"I set out to do work I believed in. The studio gr"
+    },
+    {
+      "rect": [
+        1024,
+        10385,
+        416,
+        298
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "80px",
+        "pad": "28px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "297.594px",
+        "bg": "rgb(227, 227, 227)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "© 2011 - 26Every brief taken seriously. Every outc"
+    },
+    {
+      "rect": [
+        113,
+        13520,
+        389,
+        64
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-end",
+        "ai": "flex-end",
+        "gap": "16px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "388.797px",
+        "h": "64px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "BBooookk  aa  1155--mmiinn  ccaallll"
+    },
+    {
+      "rect": [
+        574,
+        13506,
+        389,
+        64
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-end",
+        "ai": "flex-end",
+        "gap": "16px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "388.812px",
+        "h": "64px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "GGeett  ssttaarrtteedd"
+    }
+  ],
+  "Showreel": [
+    {
+      "rect": [
+        52,
+        900,
+        972,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "900px",
+        "bg": "rgb(18, 18, 18)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "PPllaayy  sshhoowwrreeeell"
+    }
+  ],
+  "About": [
+    {
+      "rect": [
+        52,
+        1800,
+        1388,
+        1294
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1293.59px",
+        "bg": "rgb(227, 227, 227)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Who we are01We work closely with brands to underst"
+    }
+  ],
+  "Statistics": [
+    {
+      "rect": [
+        52,
+        2726,
+        1388,
+        368
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "367.594px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "150+Years in practiceSince 2011, we have been shap"
+    },
+    {
+      "rect": [
+        52,
+        11500,
+        1388,
+        855
+      ],
+      "cs": {
+        "display": "grid",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "6px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "854.766px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "440px 440px 440px",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Blokke redefined what we thought our brand could b"
+    },
+    {
+      "rect": [
+        52,
+        12915,
+        972,
+        662
+      ],
+      "cs": {
+        "display": "grid",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "6px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "662.016px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "454.797px 454.812px",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Project Based$8000$0/projectFor brands with a clea"
+    }
+  ],
+  "Process": [
+    {
+      "rect": [
+        52,
+        4773,
+        972,
+        770
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "60px",
+        "pad": "80px 0px 0px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "770.375px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Process03Our process is deliberate, focused, and b"
+    },
+    {
+      "rect": [
+        52,
+        11500,
+        1388,
+        855
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "60px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "854.766px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Blokke redefined what we thought our brand could b"
+    }
+  ],
+  "Projects": [
+    {
+      "rect": [
+        52,
+        5623,
+        1388,
+        4111
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "4110.81px",
+        "bg": "rgb(227, 227, 227)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Our work04Every project tells a story.Selected acr"
+    },
+    {
+      "rect": [
+        52,
+        6134,
+        1388,
+        3600
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "3600px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "MaisonBasiraNorvikLumenMaison2026Basira2025Norvik2"
+    }
+  ],
+  "Why us": [
+    {
+      "rect": [
+        52,
+        9734,
+        1388,
+        948
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "947.969px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Why us05Choosing Blokke means choosing a studio th"
+    }
+  ],
+  "Bottom": [
+    {
+      "rect": [
+        -413,
+        759,
+        400,
+        141
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-end",
+        "ai": "center",
+        "gap": "16px",
+        "pad": "18px",
+        "mar": "0px",
+        "w": "400px",
+        "h": "141px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "hheelllloo@@bbllookkkkee..ccoomm((112233))  445566"
+    },
+    {
+      "rect": [
+        1024,
+        537,
+        416,
+        363
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "space-between",
+        "ai": "flex-end",
+        "gap": "normal",
+        "pad": "28px",
+        "mar": "0px",
+        "w": "416.391px",
+        "h": "363.391px",
+        "bg": "rgb(18, 18, 18)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "4.9/5Trusted by 120+ brands & businesses."
+    },
+    {
+      "rect": [
+        80,
+        2998,
+        268,
+        67
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-start",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "267.859px",
+        "h": "67.2188px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Since 2011, we have been shaping brands and crafti"
+    },
+    {
+      "rect": [
+        404,
+        2998,
+        268,
+        67
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-start",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "267.875px",
+        "h": "67.2188px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "From brand identities to full digital experiences,"
+    },
+    {
+      "rect": [
+        728,
+        2976,
+        268,
+        90
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "flex-start",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "267.875px",
+        "h": "89.625px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Startups finding their voice. Established brands f"
+    },
+    {
+      "rect": [
+        112,
+        3635,
+        852,
+        87
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "flex-end",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "851.609px",
+        "h": "87.25px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Interfaces and experiences built with clarity at t"
+    }
+  ],
+  "Features": [
+    {
+      "rect": [
+        52,
+        10315,
+        972,
+        70
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px 28px",
+        "mar": "0px",
+        "w": "971.609px",
+        "h": "70px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Consistent QualityStrategy FirstDeadline DrivenOn-"
+    },
+    {
+      "rect": [
+        52,
+        10385,
+        1388,
+        298
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "297.594px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Honest CommunicationNo jargon. No runaround. We sp"
+    },
+    {
+      "rect": [
+        113,
+        13272,
+        389,
+        216
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "12px",
+        "pad": "0px 0px 32px",
+        "mar": "0px",
+        "w": "388.797px",
+        "h": "216px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Full project scoping and strategy sessionDedicated"
+    },
+    {
+      "rect": [
+        574,
+        13272,
+        389,
+        202
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "12px",
+        "pad": "0px 0px 32px",
+        "mar": "0px",
+        "w": "388.812px",
+        "h": "202px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Dedicated designer assigned to your brandUp to 40 "
+    }
+  ],
+  "Testimonials": [
+    {
+      "rect": [
+        52,
+        10682,
+        1388,
+        1933
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1932.77px",
+        "bg": "rgb(26, 26, 26)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Success stories06Fifteen years of work. Hundreds o"
+    }
+  ],
+  "Pricing": [
+    {
+      "rect": [
+        52,
+        12615,
+        1388,
+        1694
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1694.45px",
+        "bg": "rgb(227, 227, 227)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Simple, transparent pricing.07Pricing PlansProject"
+    }
+  ],
+  "Team": [
+    {
+      "rect": [
+        52,
+        14309,
+        1388,
+        1397
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1396.81px",
+        "bg": "rgb(18, 18, 18)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Meet the team05The people behind the work.We are a"
+    }
+  ],
+  "Blog": [
+    {
+      "rect": [
+        52,
+        15706,
+        1388,
+        1298
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1297.81px",
+        "bg": "rgb(227, 227, 227)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Blog10The JournalApr 5, 2026Design ThinkingThe Cas"
+    }
+  ],
+  "Container": [
+    {
+      "rect": [
+        0,
+        0,
+        52,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "52px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "hidden"
+      },
+      "text": "Blokke // Studio®© 2026 All rights reservedHHoomme"
+    },
+    {
+      "rect": [
+        -413,
+        0,
+        400,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "flex-start",
+        "ai": "flex-start",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "400px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "text": "Blokke // Studio®© 2026 All rights reservedHHoomme"
+    },
+    {
+      "rect": [
+        52,
+        0,
+        1388,
+        1800
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "flex-start",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1800px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "3 spots open for // MayLocal time:05:46 AMBlokke /"
+    },
+    {
+      "rect": [
+        80,
+        808,
+        454,
+        64
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "453.797px",
+        "h": "64px",
+        "bg": "rgb(36, 36, 36)",
+        "color": "rgb(0, 0, 238)",
+        "br": "40px",
+        "border": "0px none rgb(0, 0, 238)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "SSttaarrtt  aa  pprroojjeecctt"
+    },
+    {
+      "rect": [
+        542,
+        808,
+        454,
+        64
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "453.812px",
+        "h": "64px",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 238)",
+        "br": "40px",
+        "border": "0px none rgb(0, 0, 238)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "SSeeee  pprriicciinngg"
+    },
+    {
+      "rect": [
+        52,
+        1800,
+        1388,
+        1294
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "center",
+        "ai": "center",
+        "gap": "80px",
+        "pad": "80px 0px 0px",
+        "mar": "0px",
+        "w": "1388px",
+        "h": "1293.59px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "text": "Who we are01We work closely with brands to underst"
+    }
+  ],
+  "root": [
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "DIV",
+      "id": "main",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        1440,
+        18064
+      ],
+      "cs": {
+        "display": "block",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1440px",
+        "h": "18063.6px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "DIV",
+      "id": "__framer-badge-container",
+      "cls": "",
+      "rect": [
+        0,
+        822,
+        1440,
+        78
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "fixed",
+        "fd": "row",
+        "jc": "flex-end",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "20px",
+        "mar": "0px",
+        "w": "1440px",
+        "h": "78px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "822px",
+        "left": "0px",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "__framer__appearAnimationsContent",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "__framer__breakpoints",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "LINK",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "SCRIPT",
+      "id": "",
+      "cls": "",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "static",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "auto",
+        "h": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "auto",
+        "left": "auto",
+        "overflow": "visible"
+      }
+    },
+    {
+      "tag": "DIV",
+      "id": "svg-templates",
+      "cls": "",
+      "rect": [
+        0,
+        900,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "block",
+        "pos": "absolute",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "0px",
+        "h": "0px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "900px",
+        "left": "0px",
+        "overflow": "hidden"
+      }
+    },
+    {
+      "tag": "IFRAME",
+      "id": "__framer-editorbar",
+      "cls": "status_hidden",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "cs": {
+        "display": "none",
+        "pos": "fixed",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "1440px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      }
+    }
+  ],
+  "rail": [
+    {
+      "tag": "DIV",
+      "name": null,
+      "rect": [
+        0,
+        0,
+        52,
+        900
+      ],
+      "cs": {
+        "display": "block",
+        "pos": "fixed",
+        "fd": "row",
+        "jc": "normal",
+        "ai": "normal",
+        "gap": "normal",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "52px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "html": "<div class=\"framer-1b5lofo-container\" data-framer-appear-id=\"1b5lofo\" style=\"will-change: transform; opacity: 1; transform: none;\"><header class=\"framer-SNUNh framer-9nKY4 framer-jyw8ba framer-v-ykqa5s\" data-framer-name=\"Desktop - Closed\" style=\"background-color: rgba(0, 0, 0, 0); height: 100%; opacity: 1;\"><div class=\"framer-1qwf2p2\" data-framer-name=\"Close menu\" style=\"backdrop-filter:none;-webk"
+    },
+    {
+      "tag": "HEADER",
+      "name": "Desktop - Closed",
+      "rect": [
+        0,
+        0,
+        52,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "52px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "html": "<header class=\"framer-SNUNh framer-9nKY4 framer-jyw8ba framer-v-ykqa5s\" data-framer-name=\"Desktop - Closed\" style=\"background-color: rgba(0, 0, 0, 0); height: 100%; opacity: 1;\"><div class=\"framer-1qwf2p2\" data-framer-name=\"Close menu\" style=\"backdrop-filter:none;-webkit-backdrop-filter:none;opacity:0\"></div><div class=\"framer-1bx7ybv\" data-framer-name=\"Container\" data-highlight=\"true\" style=\"opac"
+    },
+    {
+      "tag": "DIV",
+      "name": "Container",
+      "rect": [
+        0,
+        0,
+        52,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "center",
+        "gap": "0px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "52px",
+        "h": "900px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "hidden"
+      },
+      "html": "<div class=\"framer-1bx7ybv\" data-framer-name=\"Container\" data-highlight=\"true\" style=\"opacity: 1;\"><div class=\"framer-snmr9q\" data-framer-name=\"Menu\" style=\"background-color: var(--token-5b025b4f-8f09-4dc2-a03b-631de278efa1, rgb(18, 18, 18)); opacity: 1;\"><div class=\"framer-19fiqqm-container\" style=\"opacity: 1;\"><div class=\"framer-kSjgp framer-4apym0 framer-v-4apym0\" data-framer-name=\"Closed\" data"
+    },
+    {
+      "tag": "DIV",
+      "name": "Menu",
+      "rect": [
+        0,
+        0,
+        52,
+        900
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "column",
+        "jc": "space-between",
+        "ai": "center",
+        "gap": "normal",
+        "pad": "14px 0px",
+        "mar": "0px",
+        "w": "52px",
+        "h": "900px",
+        "bg": "rgb(18, 18, 18)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "clip"
+      },
+      "html": "<div class=\"framer-snmr9q\" data-framer-name=\"Menu\" style=\"background-color: var(--token-5b025b4f-8f09-4dc2-a03b-631de278efa1, rgb(18, 18, 18)); opacity: 1;\"><div class=\"framer-19fiqqm-container\" style=\"opacity: 1;\"><div class=\"framer-kSjgp framer-4apym0 framer-v-4apym0\" data-framer-name=\"Closed\" data-highlight=\"true\" tabindex=\"0\" style=\"height: 100%; width: 100%; opacity: 1;\"><div class=\"framer-yp"
+    },
+    {
+      "tag": "DIV",
+      "name": "Logo",
+      "rect": [
+        0,
+        42,
+        52,
+        844
+      ],
+      "cs": {
+        "display": "flex",
+        "pos": "relative",
+        "fd": "row",
+        "jc": "center",
+        "ai": "flex-end",
+        "gap": "8px",
+        "pad": "0px",
+        "mar": "0px",
+        "w": "52px",
+        "h": "844px",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "br": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "grid": "none",
+        "maxw": "none",
+        "top": "0px",
+        "left": "0px",
+        "overflow": "visible"
+      },
+      "html": "<div class=\"framer-1dc5cp2\" data-framer-name=\"Logo\" style=\"opacity: 1;\"><!--$--><a aria-label=\"Home button\" as=\"a\" class=\"framer-befhrb framer-8muzcr\" data-highlight=\"true\" href=\"./\" data-framer-page-link-current=\"true\" tabindex=\"0\" style=\"transform: rotate(-90deg); opacity: 1;\"><div style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\" data-framer-back"
+    }
+  ]
+}

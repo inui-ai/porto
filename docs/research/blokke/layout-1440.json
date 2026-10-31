@@ -1,0 +1,1799 @@
+{
+  "docHeight": 18064,
+  "fixedSticky": [
+    {
+      "tag": "DIV",
+      "name": null,
+      "pos": "fixed",
+      "top": "0px",
+      "rect": [
+        0,
+        17164,
+        52,
+        900
+      ],
+      "text": "Blokke // Studio®© 2026 All rights reservedHHoommeeAAbboouut"
+    },
+    {
+      "tag": "DIV",
+      "name": null,
+      "pos": "fixed",
+      "top": "0px",
+      "rect": [
+        0,
+        17164,
+        1440,
+        900
+      ],
+      "text": ""
+    },
+    {
+      "tag": "DIV",
+      "name": "Right",
+      "pos": "sticky",
+      "top": "0px",
+      "rect": [
+        1024,
+        900,
+        416,
+        900
+      ],
+      "text": "Digital Design Agency© 2026Blokke® is a design agency that d"
+    },
+    {
+      "tag": "DIV",
+      "name": "Right",
+      "pos": "sticky",
+      "top": "0px",
+      "rect": [
+        1024,
+        4723,
+        416,
+        900
+      ],
+      "text": "Blokke®We work across brand, digital, print, and motion, fou"
+    },
+    {
+      "tag": "DIV",
+      "name": null,
+      "pos": "sticky",
+      "top": "0px",
+      "rect": [
+        1024,
+        8834,
+        416,
+        900
+      ],
+      "text": "Maison2026Basira2025Norvik2024Lumen2022A complete visual ide"
+    },
+    {
+      "tag": "DIV",
+      "name": "Right",
+      "pos": "sticky",
+      "top": "0px",
+      "rect": [
+        1024,
+        13409,
+        416,
+        900
+      ],
+      "text": "3 spots open // MayBlokke®Simple, transparent pricing. Two w"
+    },
+    {
+      "tag": "DIV",
+      "name": "Right",
+      "pos": "sticky",
+      "top": "6px",
+      "rect": [
+        1024,
+        15260,
+        416,
+        366
+      ],
+      "text": "Blokke®We are always looking for designers who hold themselv"
+    },
+    {
+      "tag": "DIV",
+      "name": "Right",
+      "pos": "sticky",
+      "top": "0px",
+      "rect": [
+        1024,
+        16104,
+        416,
+        900
+      ],
+      "text": "3 spots open for // AprilKanso ©Ideas, observations, and occ"
+    },
+    {
+      "tag": "DIV",
+      "name": null,
+      "pos": "fixed",
+      "top": "801px",
+      "rect": [
+        1280,
+        17965,
+        140,
+        38
+      ],
+      "text": "Similar Templates"
+    },
+    {
+      "tag": "DIV",
+      "name": null,
+      "pos": "fixed",
+      "top": "759px",
+      "rect": [
+        1280,
+        17923,
+        140,
+        38
+      ],
+      "text": "Remix for Free"
+    },
+    {
+      "tag": "DIV",
+      "name": null,
+      "pos": "fixed",
+      "top": "822px",
+      "rect": [
+        0,
+        17986,
+        1440,
+        78
+      ],
+      "text": "Create a free website with Framer, the website builder loved"
+    }
+  ],
+  "type": {
+    "h1": [
+      {
+        "label": "h1",
+        "text": "Blokke // Studio®",
+        "tag": "H1",
+        "name": null,
+        "rect": [
+          -395,
+          17182,
+          364,
+          41
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "157.232px",
+        "weight": "600",
+        "lh": "141.509px",
+        "ls": "-11.0062px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h1",
+        "text": "Blokke // Studio®",
+        "tag": "H1",
+        "name": null,
+        "rect": [
+          80,
+          171,
+          916,
+          103
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "93.9372px",
+        "weight": "600",
+        "lh": "84.5435px",
+        "ls": "-6.57561px",
+        "color": "rgb(18, 18, 18)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h1",
+        "text": "Blokke // Studio®",
+        "tag": "H1",
+        "name": null,
+        "rect": [
+          68,
+          17843,
+          1356,
+          153
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "157.106px",
+        "weight": "600",
+        "lh": "141.395px",
+        "ls": "-10.9974px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ],
+    "h2": [
+      {
+        "label": "h2",
+        "text": "We work closely with brands to understand who they are, then translate that into visual la",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          1974,
+          1332,
+          672
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "96px",
+        "ls": "-4.8px",
+        "color": "rgb(0, 0, 0)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "Services",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          3248,
+          916,
+          86
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "86.4px",
+        "ls": "-4.8px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "Every project tells a story.",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          5797,
+          908,
+          173
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "86.4px",
+        "ls": "-4.8px",
+        "color": "rgb(26, 26, 26)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "Choosing Blokke means choosing a studio that cares as much about the work as you do, maybe",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          9888,
+          916,
+          246
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "56px",
+        "weight": "600",
+        "lh": "61.6px",
+        "ls": "-2.24px",
+        "color": "rgba(79, 79, 79, 0.7)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "Fifteen years of work. Hundreds of clients. Here is what some of them had to say.",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          10856,
+          1332,
+          384
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "96px",
+        "ls": "-4.8px",
+        "color": "rgb(0, 0, 0)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "Pricing Plans",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          12769,
+          916,
+          86
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "86.4px",
+        "ls": "-4.8px",
+        "color": "rgb(26, 26, 26)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "Faqs",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          13811,
+          916,
+          86
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "86.4px",
+        "ls": "-4.8px",
+        "color": "rgb(26, 26, 26)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "The people behind the work.",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          14483,
+          1200,
+          173
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "86.4px",
+        "ls": "-4.8px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "The Journal",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          15860,
+          916,
+          86
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "86.4px",
+        "ls": "-4.8px",
+        "color": "rgb(26, 26, 26)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h2",
+        "text": "Ready When You Are",
+        "tag": "H2",
+        "name": null,
+        "rect": [
+          80,
+          17124,
+          1046,
+          86
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "96px",
+        "weight": "600",
+        "lh": "86.4px",
+        "ls": "-4.8px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ],
+    "h3": [
+      {
+        "label": "h3",
+        "text": "Digital Design",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          189,
+          3426,
+          220,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Brand Identity",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          189,
+          3752,
+          235,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Print & Editorial",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          189,
+          4079,
+          264,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Motion & Visual",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          189,
+          4405,
+          252,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Listen",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          108,
+          5261,
+          224,
+          26
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "26.4px",
+        "ls": "-0.72px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Shape",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          413,
+          5261,
+          224,
+          26
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "26.4px",
+        "ls": "-0.72px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Release",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          718,
+          5261,
+          224,
+          26
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "26.4px",
+        "ls": "-0.72px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Maison",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          1052,
+          8772,
+          317,
+          29
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Honest Communication",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          80,
+          10413,
+          238,
+          58
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(26, 26, 26)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Long-Term Partnership",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          404,
+          10413,
+          238,
+          29
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(26, 26, 26)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "24/7 Support",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          728,
+          10413,
+          238,
+          29
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(26, 26, 26)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Project Based",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          113,
+          12948,
+          144,
+          29
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Subscription",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          574,
+          12948,
+          131,
+          29
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Erik Halvorsen",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          244,
+          14850,
+          274,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Luca Ferrante",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          244,
+          15256,
+          274,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Mia Schulz",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          716,
+          14850,
+          274,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Yuna Park",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          716,
+          15256,
+          274,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "uppercase",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "The Case for Doing Less",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          92,
+          16394,
+          431,
+          29
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "What a Brief Is Really Asking For",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          553,
+          16394,
+          431,
+          29
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Why Your Brand Feels Off, and How to Fix It",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          92,
+          16866,
+          431,
+          58
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "label": "h3",
+        "text": "Designing for Longevity in a Trend-Driven Industry",
+        "tag": "H3",
+        "name": null,
+        "rect": [
+          553,
+          16866,
+          431,
+          58
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ],
+    "h4": [],
+    "p": [
+      {
+        "text": "© 2026 All rights reserved",
+        "rect": [
+          -405,
+          17438,
+          384,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "none"
+      },
+      {
+        "text": "3 spots open for // May",
+        "rect": [
+          80,
+          28,
+          777,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none"
+      },
+      {
+        "text": "Local time:",
+        "rect": [
+          865,
+          28,
+          66,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "© Since 2011",
+        "rect": [
+          108,
+          290,
+          77,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "Based in UK",
+        "rect": [
+          895,
+          290,
+          73,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "Design with intention, not decoration.",
+        "rect": [
+          80,
+          477,
+          480,
+          62
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "28px",
+        "weight": "600",
+        "lh": "30.8px",
+        "ls": "-0.56px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Digital Design",
+        "rect": [
+          96,
+          558,
+          96,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Brand Identity",
+        "rect": [
+          96,
+          580,
+          103,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Motion & Visual",
+        "rect": [
+          96,
+          602,
+          110,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Print & Editorial",
+        "rect": [
+          96,
+          624,
+          116,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Schedule a call with our Managing Director.",
+        "rect": [
+          787,
+          491,
+          195,
+          45
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "Book a 15-min call",
+        "rect": [
+          787,
+          604,
+          170,
+          22
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(36, 36, 36)",
+        "tt": "none"
+      },
+      {
+        "text": "Digital Design Agency",
+        "rect": [
+          1052,
+          928,
+          307,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "none"
+      },
+      {
+        "text": "© 2026",
+        "rect": [
+          1365,
+          928,
+          47,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "none"
+      },
+      {
+        "text": "Blokke® is a design agency that doesn't follow trends, we build things that outlast them.",
+        "rect": [
+          1052,
+          1255,
+          360,
+          154
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "38.4px",
+        "ls": "-1.28px",
+        "color": "rgb(255, 255, 255)",
+        "tt": "none"
+      },
+      {
+        "text": "4.9/5",
+        "rect": [
+          1259,
+          1713,
+          30,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Trusted by 120+ brands & businesses.",
+        "rect": [
+          1203,
+          1733,
+          209,
+          39
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "none"
+      },
+      {
+        "text": "Who we are",
+        "rect": [
+          100,
+          1880,
+          84,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "01",
+        "rect": [
+          1377,
+          1880,
+          15,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "1515",
+        "rect": [
+          80,
+          2754,
+          34,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(18, 18, 18)",
+        "tt": "none"
+      },
+      {
+        "text": "Years in practice",
+        "rect": [
+          80,
+          2798,
+          268,
+          26
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "20px",
+        "weight": "500",
+        "lh": "26px",
+        "ls": "-0.8px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "Since 2011, we have been shaping brands and crafting visual experiences that stand the test of time.",
+        "rect": [
+          80,
+          2998,
+          268,
+          67
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "340340",
+        "rect": [
+          404,
+          2754,
+          51,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(18, 18, 18)",
+        "tt": "none"
+      },
+      {
+        "text": "Projects delivered",
+        "rect": [
+          404,
+          2798,
+          268,
+          26
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "20px",
+        "weight": "500",
+        "lh": "26px",
+        "ls": "-0.8px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "From brand identities to full digital experiences, every project gets the same level of care and precision.",
+        "rect": [
+          404,
+          2998,
+          268,
+          67
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "120120",
+        "rect": [
+          728,
+          2754,
+          51,
+          32
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "32px",
+        "weight": "500",
+        "lh": "32px",
+        "ls": "-1.28px",
+        "color": "rgb(18, 18, 18)",
+        "tt": "none"
+      },
+      {
+        "text": "Clients served",
+        "rect": [
+          728,
+          2798,
+          268,
+          26
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "20px",
+        "weight": "500",
+        "lh": "26px",
+        "ls": "-0.8px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "Startups finding their voice. Established brands finding a new one. We've worked with companies of all sizes.",
+        "rect": [
+          728,
+          2976,
+          268,
+          90
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "Blokke®",
+        "rect": [
+          1052,
+          2754,
+          57,
+          22
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "© 2011 - 26",
+        "rect": [
+          1344,
+          2755,
+          68,
+          20
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "19.6px",
+        "ls": "-0.56px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "From brand identity to digital experience, we craft work that is sharp, intentional, and impossible to ignore.",
+        "rect": [
+          1052,
+          2804,
+          360,
+          115
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "24px",
+        "weight": "500",
+        "lh": "28.8px",
+        "ls": "-0.96px",
+        "color": "rgb(79, 79, 79)",
+        "tt": "none"
+      },
+      {
+        "text": "What we do",
+        "rect": [
+          100,
+          3174,
+          85,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "02",
+        "rect": [
+          961,
+          3174,
+          15,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "UI Design",
+        "rect": [
+          840,
+          3435,
+          61,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Web Design",
+        "rect": [
+          840,
+          3457,
+          79,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Prototyping",
+        "rect": [
+          840,
+          3479,
+          88,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "UX & Wireframing",
+        "rect": [
+          840,
+          3501,
+          123,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Interfaces and experiences built with clarity at the core, functional, refined, and effortless to navigate.",
+        "rect": [
+          112,
+          3604,
+          422,
+          78
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "20px",
+        "weight": "500",
+        "lh": "26px",
+        "ls": "-0.8px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "none"
+      },
+      {
+        "text": "Logo & Mark Design",
+        "rect": [
+          820,
+          3761,
+          136,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Typography & Color",
+        "rect": [
+          820,
+          3783,
+          144,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Brand Guidelines",
+        "rect": [
+          820,
+          3805,
+          120,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Brand Strategy",
+        "rect": [
+          820,
+          3827,
+          111,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "We build brands that know exactly who they are, visually consistent, conceptually sharp, and built to last.",
+        "rect": [
+          112,
+          3931,
+          422,
+          78
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "20px",
+        "weight": "500",
+        "lh": "26px",
+        "ls": "-0.8px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "none"
+      },
+      {
+        "text": "Publication Design",
+        "rect": [
+          792,
+          4088,
+          131,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Packaging",
+        "rect": [
+          792,
+          4110,
+          73,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Poster & Campaign",
+        "rect": [
+          792,
+          4132,
+          131,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Stationery & Collateral",
+        "rect": [
+          792,
+          4154,
+          171,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Tangible design that holds its weight , from publications to packaging, made to be held and remembered.",
+        "rect": [
+          112,
+          4257,
+          422,
+          78
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "20px",
+        "weight": "500",
+        "lh": "26px",
+        "ls": "-0.8px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "none"
+      },
+      {
+        "text": "Motion Branding",
+        "rect": [
+          821,
+          4414,
+          119,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "UI Animation",
+        "rect": [
+          821,
+          4436,
+          85,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Visual Direction",
+        "rect": [
+          821,
+          4458,
+          115,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Presentation Design",
+        "rect": [
+          821,
+          4480,
+          143,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Still ideas set in motion, subtle, intentional animation that adds dimension without distraction.",
+        "rect": [
+          112,
+          4583,
+          422,
+          78
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "20px",
+        "weight": "500",
+        "lh": "26px",
+        "ls": "-0.8px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "none"
+      },
+      {
+        "text": "Process",
+        "rect": [
+          100,
+          4853,
+          59,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "03",
+        "rect": [
+          961,
+          4853,
+          15,
+          14
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "14px",
+        "weight": "500",
+        "lh": "14px",
+        "ls": "-0.56px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "Our process is deliberate, focused, and built around one goal, getting to work that is exactly right, every time.",
+        "rect": [
+          80,
+          4927,
+          916,
+          246
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "56px",
+        "weight": "600",
+        "lh": "61.6px",
+        "ls": "-2.24px",
+        "color": "rgb(227, 227, 227)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "01",
+        "rect": [
+          340,
+          5261,
+          17,
+          16
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "16px",
+        "ls": "-0.64px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "We begin every project by going deep, understanding your brand, your audience, your goals, and the space you operate in.",
+        "rect": [
+          108,
+          5426,
+          249,
+          90
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "none"
+      },
+      {
+        "text": "02",
+        "rect": [
+          645,
+          5261,
+          17,
+          16
+        ],
+        "font": "Switzer, \"Switzer Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "16px",
+        "ls": "-0.64px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "uppercase"
+      },
+      {
+        "text": "We ensure every deliverable is production-ready, meticulously documented, and built to perform across every context it w",
+        "rect": [
+          413,
+          5426,
+          249,
+          90
+        ],
+        "font": "Geist, \"Geist Placeholder\", sans-serif",
+        "size": "16px",
+        "weight": "500",
+        "lh": "22.4px",
+        "ls": "-0.64px",
+        "color": "rgb(166, 166, 166)",
+        "tt": "none"
+      }
+    ]
+  }
+}
