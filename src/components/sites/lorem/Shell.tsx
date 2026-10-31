@@ -61,7 +61,7 @@ function Menu({
         <div className="bl-menu__figure">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/sites/lorem/images/z6mah9WqITTZlxiEw23izQd35s.jpg" alt="" />
-          <span>© 20XX Lorem ipsum dolor</span>
+          <span>© 20XX loremipsum dolor</span>
         </div>
         <div className="bl-menu__body">
           <nav className="bl-menu__nav" aria-label="Pages">
@@ -107,7 +107,7 @@ export function Shell({ children }: { children: React.ReactNode }) {
     <div className="bl-root">
       <aside className="bl-rail" aria-label="Studio">
         <Burger open={open} onClick={toggle} className="bl-rail__burger" />
-        <a className="bl-rail__brand" href="#top" aria-label="Lorem Ipsum — home">
+        <a className="bl-rail__brand" href="#top" aria-label="loremipsum — home">
           {SITE.brand}
         </a>
       </aside>
@@ -125,3 +125,4 @@ export function Shell({ children }: { children: React.ReactNode }) {
     </div>
   );
 }
+

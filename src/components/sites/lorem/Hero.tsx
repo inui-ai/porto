@@ -15,7 +15,7 @@ export function Hero() {
           <div className="bl-hero__left">
             <div className="bl-hero__top">
               <span>
-                Lorem ipsum <b>{"// May"}</b>
+                loremipsum <b>{"// May"}</b>
               </span>
               <span>Local time: {time || "--:--"}</span>
             </div>
@@ -26,7 +26,7 @@ export function Hero() {
               </h1>
               <div className="bl-hero__since">
                 <span className="bl-eyebrow__diamond" aria-hidden />
-                <span>© Lorem ipsum</span>
+                <span>© loremipsum</span>
                 <span className="bl-eyebrow__line" aria-hidden />
                 <span>Dolor sit amet</span>
                 <span className="bl-eyebrow__diamond" aria-hidden />
@@ -36,7 +36,7 @@ export function Hero() {
             <div className="bl-hero__details">
               <div className="bl-hero__claim">
                 <h2>
-                  Lorem ipsum dolor sit,
+                  loremipsum dolor sit,
                   <br />
                   amet consectetur.
                 </h2>
@@ -53,9 +53,9 @@ export function Hero() {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={img("UT11maOE26W5dPQ4gVjKF55xxo")} alt="" />
                 <span className="bl-callcard__body">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                  <p>loremipsum dolor sit amet, consectetur adipiscing elit.</p>
                   <span className="bl-callcard__link">
-                    Lorem ipsum
+                    loremipsum
                     <Chevron />
                   </span>
                 </span>
@@ -64,7 +64,7 @@ export function Hero() {
 
             <div className="bl-hero__cta">
               <a className="bl-btn bl-btn--dark" href="#contact">
-                Lorem ipsum
+                loremipsum
               </a>
               <a className="bl-btn bl-btn--light" href="#projects">
                 Dolor sit amet
@@ -77,7 +77,7 @@ export function Hero() {
 
         <aside className="bl-hero__panel bl-panel" aria-label="Studio introduction">
           <div className="bl-hero__panelTop">
-            <span>Lorem ipsum agency</span>
+            <span>loremipsum agency</span>
             <span>© 20XX</span>
           </div>
 
@@ -85,7 +85,7 @@ export function Hero() {
 
           <div className="bl-hero__statementWrap">
             <p className="bl-hero__statement">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+              loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
             </p>
           </div>
 
@@ -107,7 +107,7 @@ export function Hero() {
                 )}
               </div>
               <div className="bl-rating">
-                Lorem ipsum
+                loremipsum
                 <b>Dolor sit amet, consectetur adipiscing elit.</b>
               </div>
             </div>
@@ -117,3 +117,4 @@ export function Hero() {
     </section>
   );
 }
+

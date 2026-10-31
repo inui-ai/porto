@@ -1,5 +1,5 @@
 // Placeholder content for layout demonstration only.
-// All copy is lorem ipsum; no real or fictional brand/claims.
+// All copy is loremipsum; no real or fictional brand/claims.
 
 export const SITE = {
   brand: "Lorem®",
@@ -32,14 +32,14 @@ export const CLIENT_LOGOS = [
   { src: "/sites/lorem/logos/jW388YA5ksAvsmr34Qj2SIdWE.svg", name: "Consectetur", width: 82, height: 42 },
 ] as const;
 
-export const HERO_TAGS = ["Lorem ipsum", "Dolor sit amet", "Consectetur elit", "Sed do eiusmod"] as const;
+export const HERO_TAGS = ["loremipsum", "Dolor sit amet", "Consectetur elit", "Sed do eiusmod"] as const;
 
 export const STATS = [
   {
     value: 25,
     suffix: "+",
-    label: "Lorem ipsum dolor",
-    copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    label: "loremipsum dolor",
+    copy: "loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
   },
   {
     value: 350,
@@ -66,9 +66,9 @@ export type Service = {
 export const SERVICES: Service[] = [
   {
     number: "01",
-    title: "Lorem Ipsum",
+    title: "loremipsum",
     tags: ["Dolor sit", "Amet consectetur", "Adipiscing elit", "Sed do eiusmod"],
-    copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    copy: "loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
     images: ["IhfQZeWVM2YXEvVTKrfWwYsdmI", "4VpfEk0LtjOyNNkZwrBWWVA9FOk", "3msFGBOR1DnLbODXfwziFXWw05I"],
   },
   {
@@ -98,7 +98,7 @@ export const PROCESS = [
   {
     number: "01",
     title: "Lorem",
-    copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    copy: "loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
   },
   {
     number: "02",
@@ -124,14 +124,14 @@ export type Project = {
 };
 
 const LOREM_LONG =
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam quis nostrud.";
+  "loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam quis nostrud.";
 
 export const PROJECTS: Project[] = [
   {
     name: "Lorem",
     year: "20XX",
     copy: LOREM_LONG,
-    client: "Lorem Ipsum",
+    client: "loremipsum",
     service: "Dolor Sit",
     timeline: "00 weeks",
     image: "oJDtXbA7vk2Y7wdRJtgy4h5NwIk",
@@ -170,7 +170,7 @@ export const PROJECTS: Project[] = [
 ];
 
 export const WHY_US_FEATURES = [
-  "Lorem ipsum",
+  "loremipsum",
   "Dolor sit amet",
   "Consectetur",
   "Adipiscing elit",
@@ -179,8 +179,8 @@ export const WHY_US_FEATURES = [
 
 export const WHY_US = [
   {
-    title: "Lorem Ipsum Dolor",
-    copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    title: "loremipsum Dolor",
+    copy: "loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
     icon: "chat",
   },
   {
@@ -198,8 +198,8 @@ export const WHY_US = [
 export const POSTS = [
   {
     date: "Jan 1, 20XX",
-    category: "Lorem Ipsum",
-    title: "Lorem ipsum dolor sit amet",
+    category: "loremipsum",
+    title: "loremipsum dolor sit amet",
     image: "Na9cPIghNKaoJ7Riprb5RmxI",
   },
   {
@@ -216,7 +216,7 @@ export const POSTS = [
   },
   {
     date: "Apr 1, 20XX",
-    category: "Lorem Ipsum",
+    category: "loremipsum",
     title: "Duis aute irure dolor in reprehenderit",
     image: "6E3OEiGcuiFOlVUpw5BvFYc",
   },
@@ -224,3 +224,4 @@ export const POSTS = [
 
 export const img = (id: string) => `/sites/lorem/images/${id}.jpg`;
 export const logo = (id: string) => `/sites/lorem/logos/${id}.svg`;
+

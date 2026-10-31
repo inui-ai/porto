@@ -10,8 +10,8 @@ export function Blog() {
         <div className="bl-col bl-blog__left">
           <div className="bl-blog__block">
             <div className="bl-blog__head">
-              <Eyebrow label="Lorem ipsum" index="07" />
-              <h2 className="bl-h2">Lorem ipsum</h2>
+              <Eyebrow label="loremipsum" index="07" />
+              <h2 className="bl-h2">loremipsum</h2>
             </div>
 
             <div className="bl-blog__grid">
@@ -32,17 +32,17 @@ export function Blog() {
           </div>
         </div>
 
-        <aside className="bl-blog__panel bl-panel" aria-label="Lorem ipsum">
+        <aside className="bl-blog__panel bl-panel" aria-label="loremipsum">
           <div>
             <div className="bl-blog__panelTop">
-              <span>Lorem ipsum // dolor</span>
+              <span>loremipsum // dolor</span>
               <span>Ipsum ©</span>
             </div>
-            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</h2>
+            <h2>loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</h2>
           </div>
 
           <div className="bl-signup">
-            <h3>Lorem ipsum dolor</h3>
+            <h3>loremipsum dolor</h3>
             <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <form
               onSubmit={(event) => {
@@ -56,7 +56,7 @@ export function Blog() {
               <label htmlFor="lorem-signup" className="sr-only" style={{ position: "absolute", left: -9999 }}>
                 Email address
               </label>
-              <input id="lorem-signup" type="email" placeholder="Lorem ipsum" required />
+              <input id="lorem-signup" type="email" placeholder="loremipsum" required />
               <button type="submit">Lorem</button>
             </form>
           </div>
@@ -65,3 +65,4 @@ export function Blog() {
     </section>
   );
 }
+

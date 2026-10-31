@@ -24,12 +24,12 @@ export function About() {
     <section id="about" className="bl-about">
       <div className="bl-about__inner">
         <div className="bl-pad">
-          <Eyebrow label="Lorem ipsum" index="01" />
+          <Eyebrow label="loremipsum" index="01" />
         </div>
 
         <div className="bl-pad bl-about__headline">
           <RevealText
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim."
+            text="loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim."
             className="bl-h2 bl-h2--reveal"
           />
         </div>
@@ -45,9 +45,9 @@ export function About() {
               <span className="bl-eyebrow__line" aria-hidden />
               <span>© 20XX - XX</span>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+            <p>loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
             <a className="bl-btn bl-btn--dark" href="#services" style={{ height: 56 }}>
-              Lorem ipsum
+              loremipsum
             </a>
           </div>
         </div>
@@ -55,3 +55,4 @@ export function About() {
     </section>
   );
 }
+

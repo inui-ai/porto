@@ -32,15 +32,15 @@ export function Projects() {
   return (
     <section id="projects" className="bl-projects">
       <div className="bl-projects__head">
-        <Eyebrow label="Lorem ipsum" index="04" />
+        <Eyebrow label="loremipsum" index="04" />
 
         <div className="bl-projects__headline">
           <div className="bl-projects__title">
-            <h2 className="bl-h2">Lorem ipsum dolor sit amet.</h2>
+            <h2 className="bl-h2">loremipsum dolor sit amet.</h2>
             <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>
           <a className="bl-btn bl-btn--outline bl-projects__all" href="#projects">
-            Lorem ipsum
+            loremipsum
             <Arrow />
           </a>
         </div>
@@ -101,7 +101,7 @@ export function Projects() {
 
           <div className="bl-projects__cta">
             <a className="bl-btn bl-btn--dark bl-btn--wide" href="#projects">
-              Lorem ipsum
+              loremipsum
             </a>
           </div>
         </aside>
@@ -109,3 +109,4 @@ export function Projects() {
     </section>
   );
 }
+

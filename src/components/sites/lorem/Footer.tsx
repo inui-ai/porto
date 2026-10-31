@@ -11,7 +11,7 @@ export function Footer() {
     <footer id="contact" className="bl-footer">
       <div className="bl-footer__head">
         <div className="bl-footer__title">
-          <h2 className="bl-h2 bl-h2--white">Lorem ipsum dolor</h2>
+          <h2 className="bl-h2 bl-h2--white">loremipsum dolor</h2>
           <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
         <div className="bl-footer__where">
@@ -36,7 +36,7 @@ export function Footer() {
         </div>
 
         <div className="bl-footer__col">
-          <span className="bl-footer__colTitle">Lorem ipsum</span>
+          <span className="bl-footer__colTitle">loremipsum</span>
           <div className="bl-footer__links">
             <a href="#contact">Dolor sit amet</a>
             <a href="#contact">Consectetur elit</a>
@@ -82,7 +82,7 @@ export function Footer() {
               <textarea id="lorem-message" name="message" rows={4} required />
             </div>
             <button type="submit" className="bl-btn">
-              Lorem ipsum
+              loremipsum
               <Arrow />
             </button>
           </form>
@@ -96,10 +96,11 @@ export function Footer() {
       <div className="bl-footer__bottom">
         <span className="bl-footer__credit">
           <span className="bl-eyebrow__diamond" aria-hidden />
-          Lorem ipsum dolor sit amet
+          loremipsum dolor sit amet
         </span>
-        <span>© 20XX Lorem ipsum</span>
+        <span>© 20XX loremipsum</span>
       </div>
     </footer>
   );
 }
+

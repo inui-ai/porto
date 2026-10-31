@@ -10,8 +10,8 @@ export function Services() {
         <div className="bl-col bl-services__left">
           <div className="bl-services__block">
             <div className="bl-services__head">
-              <Eyebrow label="Lorem ipsum" index="02" />
-              <h2 className="bl-h2 bl-h2--dark">Lorem ipsum</h2>
+              <Eyebrow label="loremipsum" index="02" />
+              <h2 className="bl-h2 bl-h2--dark">loremipsum</h2>
             </div>
 
             <div className="bl-service-list">
@@ -47,13 +47,13 @@ export function Services() {
           </div>
 
           <div className="bl-process">
-            <Eyebrow label="Lorem ipsum" index="03" />
+            <Eyebrow label="loremipsum" index="03" />
 
             <RevealText
               className="bl-process__headline"
               from="rgba(255,255,255,0.32)"
               to="#ffffff"
-              text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
+              text="loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
             />
 
             <div className="bl-process__grid">
@@ -70,26 +70,26 @@ export function Services() {
           </div>
         </div>
 
-        <aside className="bl-services__panel bl-panel" aria-label="Lorem ipsum">
+        <aside className="bl-services__panel bl-panel" aria-label="loremipsum">
           <div>
             <span className="bl-panel__label">Lorem®</span>
-            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</h2>
+            <h2>loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</h2>
           </div>
 
           <div>
             <div className="bl-quote">
-              <p>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.&quot;</p>
+              <p>&quot;loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.&quot;</p>
               <div className="bl-author">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={img("R9ImT4cCQPQKwaUuf4cfhm0yY")} alt="" />
                 <span>
-                  <span className="bl-author__name">Lorem Ipsum</span>
+                  <span className="bl-author__name">loremipsum</span>
                   <span className="bl-author__role">Dolor Sit Amet</span>
                 </span>
               </div>
             </div>
             <a className="bl-btn bl-btn--light bl-btn--wide" href="#contact">
-              Lorem ipsum
+              loremipsum
             </a>
           </div>
         </aside>
@@ -97,3 +97,4 @@ export function Services() {
     </section>
   );
 }
+

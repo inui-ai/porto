@@ -15,14 +15,14 @@ export function WhyUs() {
     <section className="bl-why">
       <div className="bl-why__left">
         <div className="bl-pad">
-          <Eyebrow label="Lorem ipsum" index="05" />
+          <Eyebrow label="loremipsum" index="05" />
         </div>
 
         <RevealText
           className="bl-why__headline"
           from="rgba(79,79,79,0.35)"
           to="#1a1a1a"
-          text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
+          text="loremipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
         />
 
         <div className="bl-why__ticker">
@@ -55,7 +55,7 @@ export function WhyUs() {
         <div className="bl-why__figure">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={img("MXFVPDRJ0Kp2tDvkli9MluRXjo")} alt="" loading="lazy" />
-          <strong>Lorem Ipsum®</strong>
+          <strong>loremipsum®</strong>
         </div>
 
         <div className="bl-why__cta">
@@ -64,12 +64,13 @@ export function WhyUs() {
             <span className="bl-eyebrow__line" aria-hidden />
             <span aria-hidden>◎</span>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>loremipsum dolor sit amet, consectetur adipiscing elit.</p>
           <a className="bl-btn bl-btn--dark bl-btn--wide bl-btn--sm" href="#contact">
-            Lorem ipsum
+            loremipsum
           </a>
         </div>
       </div>
     </section>
   );
 }
+
