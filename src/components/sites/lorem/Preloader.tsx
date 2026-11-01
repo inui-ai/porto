@@ -29,6 +29,12 @@ export function Preloader() {
 
   useEffect(() => {
     if (!loading) {
+      // Add zooming class to trigger CSS transition
+      const preloader = document.querySelector(".bl-preloader") as HTMLElement;
+      if (preloader) {
+        preloader.classList.add("bl-preloader--zooming");
+      }
+
       // Smooth zoom in effect when preloader finishes
       const lenis = new Lenis({
         duration: 1.5,
@@ -45,6 +51,14 @@ export function Preloader() {
       // Smooth scroll to top
       lenis.scrollTo(0, { duration: 1.5, lerp: 0.1, offset: 0 });
 
+      // Remove preloader after zoom animation completes
+      setTimeout(() => {
+        if (preloader) {
+          preloader.style.opacity = "0";
+          preloader.style.pointerEvents = "none";
+        }
+      }, 1000);
+
       return () => {
         lenis.destroy();
       };
@@ -54,7 +68,7 @@ export function Preloader() {
   if (loading) {
     return (
       <div
-        className="bl-preloader fixed inset-0 z-[9999] flex items-center justify-center bg-[#0d0d0d] transition-transform duration-1000 ease-out"
+        className="bl-preloader fixed inset-0 z-[9999] flex items-center justify-center bg-[#0d0d0d]"
         style={{ transform: "scale(1)" }}
       >
         <div className="bl-preloader__content">
