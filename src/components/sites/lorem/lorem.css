@@ -2328,6 +2328,8 @@ html.lenis body {
   }
 
   .bl-project {
+    width: 100%;
+    height: auto;
     aspect-ratio: 16 / 11;
   }
 
@@ -2576,6 +2578,14 @@ html.lenis body {
 
   .bl-projects__headline {
     gap: 20px;
+  }
+
+  .bl-project {
+    width: 100%;
+    height: 100svh;
+    min-height: 560px;
+    max-height: 780px;
+    aspect-ratio: auto;
   }
 
   .bl-project__overlay {
