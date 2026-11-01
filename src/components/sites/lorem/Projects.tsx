@@ -12,19 +12,30 @@ export function Projects() {
     const nodes = refs.current.filter(Boolean) as HTMLAnchorElement[];
     if (!nodes.length) return;
 
-    const io = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (!entry.isIntersecting) return;
-          const index = nodes.indexOf(entry.target as HTMLAnchorElement);
-          if (index >= 0) setActive(index);
-        });
-      },
-      { rootMargin: "-45% 0px -45% 0px", threshold: 0 },
-    );
+    let frame = 0;
 
-    nodes.forEach((node) => io.observe(node));
-    return () => io.disconnect();
+    const update = () => {
+      frame = 0;
+      let next = 0;
+      nodes.forEach((node, index) => {
+        if (node.getBoundingClientRect().top <= 8) next = index;
+      });
+      setActive((prev) => (prev === next ? prev : next));
+    };
+
+    const onScroll = () => {
+      if (frame) return;
+      frame = window.requestAnimationFrame(update);
+    };
+
+    update();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+      if (frame) window.cancelAnimationFrame(frame);
+    };
   }, []);
 
   const project = PROJECTS[active];

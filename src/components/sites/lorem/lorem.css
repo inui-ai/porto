@@ -1414,12 +1414,14 @@ html.lenis body {
 }
 
 .bl-project {
-  position: relative;
+  position: sticky;
+  top: 0;
   display: block;
   text-decoration: none;
   color: #fff;
   overflow: hidden;
-  height: 900px;
+  height: min(100svh, 900px);
+  min-height: 560px;
   background: #111;
 }
 
@@ -2329,8 +2331,8 @@ html.lenis body {
 
   .bl-project {
     width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 11;
+    height: min(100svh, 800px);
+    aspect-ratio: auto;
   }
 
   .bl-why__right {
@@ -2584,7 +2586,6 @@ html.lenis body {
     width: 100%;
     height: 100svh;
     min-height: 560px;
-    max-height: 780px;
     aspect-ratio: auto;
   }
 
