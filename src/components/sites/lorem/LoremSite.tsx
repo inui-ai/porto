@@ -2,6 +2,7 @@ import { About } from "./About";
 import { Blog } from "./Blog";
 import { Footer } from "./Footer";
 import { Hero } from "./Hero";
+import { Preloader } from "./Preloader";
 import { Projects } from "./Projects";
 import { Services } from "./Services";
 import { Shell } from "./Shell";
@@ -11,6 +12,7 @@ import "./lorem.css";
 export function LoremSite() {
   return (
     <Shell>
+      <Preloader />
       <main>
         <Hero />
         <About />

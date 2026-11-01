@@ -25,6 +25,14 @@ export function Footer() {
 
       <div className="bl-footer__cols">
         <div className="bl-footer__col">
+          <span className="bl-footer__colTitle">loremipsum</span>
+          <div className="bl-footer__links">
+            <a href="#contact">Dolor sit amet</a>
+            <a href="#contact">Consectetur elit</a>
+          </div>
+        </div>
+
+        <div className="bl-footer__col">
           <span className="bl-footer__colTitle">Navigation</span>
           <div className="bl-footer__links">
             {NAV_LINKS.map((link) => (
@@ -32,14 +40,6 @@ export function Footer() {
                 {link.label}
               </a>
             ))}
-          </div>
-        </div>
-
-        <div className="bl-footer__col">
-          <span className="bl-footer__colTitle">loremipsum</span>
-          <div className="bl-footer__links">
-            <a href="#contact">Dolor sit amet</a>
-            <a href="#contact">Consectetur elit</a>
           </div>
         </div>
 
