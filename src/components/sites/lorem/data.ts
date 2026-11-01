@@ -21,12 +21,6 @@ export const NAV_LINKS = [
   { label: "Projects", href: "#projects" },
   { label: "Blog", href: "#blog" },
   { label: "Contact", href: "#contact" },
-  { label: "loremipsum dolor sit amet, consectetur adipiscing elit", href: "#" },
-  { label: "Adipiscing elit, sed do eiusmod tempor incididunt ut labore", href: "#" },
-  { label: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris", href: "#" },
-  { label: SITE.phone, href: `tel:${SITE.phone.replace(/\D/g, "")}` },
-  { label: SITE.email, href: `mailto:${SITE.email}` },
-  ...SITE.socials.map((s) => ({ label: s.label, href: s.href })),
 ] as const;
 
 export const CLIENT_LOGOS = [
