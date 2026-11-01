@@ -60,7 +60,7 @@ export function Preloader() {
       <div
         className="bl-preloader fixed inset-0 z-[9999] flex items-center justify-center bg-[#0d0d0d]"
         style={{
-          transform: zoomed ? "scale(0.01)" : "scale(1)",
+          transform: zoomed ? "scale(1)" : "scale(0.01)",
           transition: zoomed ? "transform 1s cubic-bezier(0.16, 1, 0.3, 1)" : "none"
         }}
       >
