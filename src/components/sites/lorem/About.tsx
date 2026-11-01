@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useRef } from "react";
 import { STATS } from "./data";
 import { useCountUp } from "./hooks";
 import { Eyebrow, RevealText } from "./ui";
@@ -20,8 +21,28 @@ function Stat({ value, suffix, label, copy }: { value: number; suffix: string; l
 }
 
 export function About() {
+  const ref = useRef<HTMLElement | null>(null);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+
+    const update = () => {
+      el.style.setProperty("--bl-about-top", `${Math.min(0, window.innerHeight - el.offsetHeight)}px`);
+    };
+
+    update();
+    const observer = new ResizeObserver(update);
+    observer.observe(el);
+    window.addEventListener("resize", update);
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("resize", update);
+    };
+  }, []);
+
   return (
-    <section id="about" className="bl-about">
+    <section id="about" className="bl-about" ref={ref}>
       <div className="bl-about__inner">
         <div className="bl-pad">
           <Eyebrow label="loremipsum" index="01" />

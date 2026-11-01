@@ -935,6 +935,15 @@ html.lenis body {
 .bl-about {
   background: var(--bl-paper);
   padding: 80px 0 0;
+  position: sticky;
+  top: var(--bl-about-top, 0px);
+}
+
+/* Sections after About paint above it so they scroll over while it stays pinned. */
+main > section:not(.bl-about),
+main > footer {
+  position: relative;
+  z-index: 2;
 }
 
 .bl-about__inner {
