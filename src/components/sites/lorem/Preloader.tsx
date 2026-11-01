@@ -1,29 +1,74 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Loader2 } from "lucide-react";
+import Lenis from "lenis";
 
 export function Preloader() {
   const [loading, setLoading] = useState(true);
+  const [progress, setProgress] = useState(0);
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setLoading(false);
-    }, 300);
+    let frame = 0;
 
-    return () => clearTimeout(timer);
+    const update = () => {
+      frame++;
+      const p = Math.min(100, Math.floor((frame / 60) * 100));
+      setProgress(p);
+
+      if (p < 100) {
+        frame = window.requestAnimationFrame(update);
+      } else {
+        setTimeout(() => {
+          setLoading(false);
+        }, 200);
+      }
+    };
+
+    update();
   }, []);
 
-  if (!loading) return null;
+  useEffect(() => {
+    if (!loading) {
+      // Smooth zoom in effect when preloader finishes
+      const lenis = new Lenis({
+        duration: 1.5,
+        easing: (t: number) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+      });
 
-  return (
-    <div
-      className="bl-preloader fixed inset-0 z-[9999] flex items-center justify-center bg-[#0d0d0d] transition-opacity duration-500 ease-out"
-      aria-label="Loading"
-    >
-      <div className="bl-preloader__spinner">
-        <Loader2 className="bl-preloader__icon" size={32} strokeWidth={1.5} aria-hidden />
+      function raf(time: number) {
+        lenis.raf(time);
+        requestAnimationFrame(raf);
+      }
+
+      requestAnimationFrame(raf);
+
+      // Smooth scroll to top
+      lenis.scrollTo(0, { duration: 1.5, lerp: 0.1, offset: 0 });
+
+      return () => {
+        lenis.destroy();
+      };
+    }
+  }, [loading]);
+
+  if (loading) {
+    return (
+      <div
+        className="bl-preloader fixed inset-0 z-[9999] flex items-center justify-center bg-[#0d0d0d] transition-transform duration-1000 ease-out"
+        style={{ transform: "scale(1)" }}
+      >
+        <div className="bl-preloader__content">
+          <div className="bl-preloader__bar-container">
+            <div
+              className="bl-preloader__bar"
+              style={{ width: `${progress}%` }}
+            />
+          </div>
+          <div className="bl-preloader__percentage">{progress}%</div>
+        </div>
       </div>
-    </div>
-  );
+    );
+  }
+
+  return null;
 }
