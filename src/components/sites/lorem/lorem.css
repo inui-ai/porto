@@ -941,8 +941,28 @@ html.lenis body {
   pointer-events: none;
 }
 
-.bl-preloader--zooming {
-  transform: scale(0.01);
+.bl-preloader__content {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.bl-preloader__content.hiding {
+  opacity: 0;
+}
+
+.bl-preloader__bar {
+  transition: width 0.1s linear;
+}
+
+.bl-preloader__percentage {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.bl-preloader__content.loaded .bl-preloader__percentage {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .bl-preloader__content {

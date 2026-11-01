@@ -6,6 +6,7 @@ import Lenis from "lenis";
 export function Preloader() {
   const [loading, setLoading] = useState(true);
   const [progress, setProgress] = useState(0);
+  const [zoomed, setZoomed] = useState(false);
 
   useEffect(() => {
     let frame = 0;
@@ -19,7 +20,10 @@ export function Preloader() {
         frame = window.requestAnimationFrame(update);
       } else {
         setTimeout(() => {
-          setLoading(false);
+          setZoomed(true);
+          setTimeout(() => {
+            setLoading(false);
+          }, 1000);
         }, 200);
       }
     };
@@ -28,13 +32,7 @@ export function Preloader() {
   }, []);
 
   useEffect(() => {
-    if (!loading) {
-      // Add zooming class to trigger CSS transition
-      const preloader = document.querySelector(".bl-preloader") as HTMLElement;
-      if (preloader) {
-        preloader.classList.add("bl-preloader--zooming");
-      }
-
+    if (zoomed) {
       // Smooth zoom in effect when preloader finishes
       const lenis = new Lenis({
         duration: 1.5,
@@ -51,34 +49,33 @@ export function Preloader() {
       // Smooth scroll to top
       lenis.scrollTo(0, { duration: 1.5, lerp: 0.1, offset: 0 });
 
-      // Remove preloader after zoom animation completes
-      setTimeout(() => {
-        if (preloader) {
-          preloader.style.opacity = "0";
-          preloader.style.pointerEvents = "none";
-        }
-      }, 1000);
-
       return () => {
         lenis.destroy();
       };
     }
-  }, [loading]);
+  }, [zoomed]);
 
   if (loading) {
     return (
       <div
         className="bl-preloader fixed inset-0 z-[9999] flex items-center justify-center bg-[#0d0d0d]"
-        style={{ transform: "scale(1)" }}
+        style={{
+          transform: zoomed ? "scale(0.01)" : "scale(1)",
+          transition: zoomed ? "transform 1s cubic-bezier(0.16, 1, 0.3, 1)" : "none"
+        }}
       >
-        <div className="bl-preloader__content">
+        <div className={`bl-preloader__content ${zoomed ? "hiding" : ""}`}>
           <div className="bl-preloader__bar-container">
             <div
               className="bl-preloader__bar"
-              style={{ width: `${progress}%` }}
+              style={{
+                width: `${progress}%`
+              }}
             />
           </div>
-          <div className="bl-preloader__percentage">{progress}%</div>
+          <div className={`bl-preloader__percentage ${progress === 100 ? "loaded" : ""}`}>
+            {progress}%
+          </div>
         </div>
       </div>
     );
